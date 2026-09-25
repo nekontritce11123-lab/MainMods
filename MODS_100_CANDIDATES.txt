@@ -2,16 +2,16 @@
 База: Minecraft Java 26.2 + Fabric
 Статусы: [ ] обсудить | [x] добавить | [-] отказаться
 
-001. [ ] Sodium — A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | slug: sodium
-002. [ ] Xaero's Minimap — Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. | slug: xaeros-minimap
+001. [x] Sodium — A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | slug: sodium
+002. [x] Xaero's Minimap — Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. | slug: xaeros-minimap
 003. [ ] Not Enough Animations — Bringing first-person animations to the third-person | slug: not-enough-animations
-004. [ ] VeinMiner — Mine the whole vein on mining a single ore/block. Make the tedious mining experience to something satisfying and fun! | slug: veinminer
+004. [-] VeinMiner — Mine the whole vein on mining a single ore/block. Make the tedious mining experience to something satisfying and fun! | slug: veinminer
 005. [ ] Geckolib — A 3D animation library for entities, blocks, items, armor, and more! | slug: geckolib
-006. [ ] More Culling — A mod that changes how multiple types of culling are handled in order to improve performance | slug: moreculling
-007. [ ] Mouse Tweaks — Enhances inventory management by adding various functions to the mouse buttons.  | slug: mouse-tweaks
+006. [x] More Culling — A mod that changes how multiple types of culling are handled in order to improve performance | slug: moreculling
+007. [x] Mouse Tweaks — Enhances inventory management by adding various functions to the mouse buttons.  | slug: mouse-tweaks
 008. [ ] Searchables — Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality. | slug: searchables
-009. [ ] Concurrent Chunk Management Engine (Fabric) — A Fabric mod designed to improve the chunk performance of Minecraft. | slug: c2me-fabric
-010. [ ] Distant Horizons — Massively increase render distance without harming performance. | slug: distanthorizons
+009. [x] Concurrent Chunk Management Engine (Fabric) — A Fabric mod designed to improve the chunk performance of Minecraft. | slug: c2me-fabric
+010. [x] Distant Horizons — Massively increase render distance without harming performance. | slug: distanthorizons
 011. [ ] Carry On — Carry On allows you to pick up Tile Entities and Mobs and carry them around! | slug: carry-on
 012. [ ] NetherPortalFix — Ensures correct destinations when traveling back and forth through Nether Portals in Multiplayer. | slug: netherportalfix
 013. [ ] Let Me Despawn — Improves performance by tweaking mob despawn rules. Say bye to pesky unintentional persistent mobs. | slug: lmd
@@ -102,3 +102,4 @@
 098. [ ] Raise Sound Limit Simplified — A mod that improves sound engine performance and raises Minecraft sound sources limit in a simple way | slug: rsls
 099. [ ] Better Animations Collection — Changing the in-game models to allow for better animations and subtle effects. | slug: better-animations-collection
 100. [ ] Healing Campfire — ð¥ð©¹ Creates an area around the (soul) campfire where players and passive mobs receive regeneration. | slug: healing-campfire
+
