@@ -1,0 +1,10 @@
+# Minecraft runtime / personal files
+logs/
+crash-reports/
+saves/
+screenshots/
+resourcepacks/
+shaderpacks/
+options.txt
+servers.dat
+*.log
