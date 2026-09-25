@@ -1,0 +1,104 @@
+﻿# MainMods — 100 кандидатов
+База: Minecraft Java 26.2 + Fabric
+Статусы: [ ] обсудить | [x] добавить | [-] отказаться
+
+001. [ ] Sodium — A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | slug: sodium
+002. [ ] Xaero's Minimap — Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. | slug: xaeros-minimap
+003. [ ] Not Enough Animations — Bringing first-person animations to the third-person | slug: not-enough-animations
+004. [ ] VeinMiner — Mine the whole vein on mining a single ore/block. Make the tedious mining experience to something satisfying and fun! | slug: veinminer
+005. [ ] Geckolib — A 3D animation library for entities, blocks, items, armor, and more! | slug: geckolib
+006. [ ] More Culling — A mod that changes how multiple types of culling are handled in order to improve performance | slug: moreculling
+007. [ ] Mouse Tweaks — Enhances inventory management by adding various functions to the mouse buttons.  | slug: mouse-tweaks
+008. [ ] Searchables — Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality. | slug: searchables
+009. [ ] Concurrent Chunk Management Engine (Fabric) — A Fabric mod designed to improve the chunk performance of Minecraft. | slug: c2me-fabric
+010. [ ] Distant Horizons — Massively increase render distance without harming performance. | slug: distanthorizons
+011. [ ] Carry On — Carry On allows you to pick up Tile Entities and Mobs and carry them around! | slug: carry-on
+012. [ ] NetherPortalFix — Ensures correct destinations when traveling back and forth through Nether Portals in Multiplayer. | slug: netherportalfix
+013. [ ] Let Me Despawn — Improves performance by tweaking mob despawn rules. Say bye to pesky unintentional persistent mobs. | slug: lmd
+014. [ ] Terralith — Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain. | slug: terralith
+015. [ ] Lithostitched — Library mod with new configurability and compatibility enhancements for worldgen | slug: lithostitched
+016. [ ] Sodium Shadowy Path Blocks (SSPB) — Reintroduces vanilla-like smooth lighting to non-full blocks (e.g. dirt paths and how they have dark shading when directly next to a full block) when using Sodium.  | slug: sodium-shadowy-path-blocks
+017. [ ] spark — spark is a performance profiler for Minecraft clients, servers and proxies. | slug: spark
+018. [ ] Chat Animation [Smooth Chat] — Makes chat messages appear with a smooth animation. | slug: chatanimation
+019. [ ] Tom's Simple Storage Mod — Simple vanilla style storage mod | slug: toms-storage
+020. [ ] MRU — A library mod used by Cassian and IMB11's mods to function. | slug: mru
+021. [ ] (Sodium) Chloride — Gives Sodium additional Performance and Quality features for a tasteful experience | slug: chloride
+022. [ ] Prism — A library all about color! Provides lots of color-related functionality for dependent mods. | slug: prism-lib
+023. [ ] Cut Through — Cleanly swing through transparent blocks like tall grass to hit mobs without breaking said block. | slug: cut-through
+024. [ ] Very Many Players (Fabric) — A Fabric mod designed to improve server performance at high playercounts. | slug: vmp-fabric
+025. [ ] Better Combat — âï¸ Easy, spectacular and fun melee combat system from Minecraft Dungeons. | slug: better-combat
+026. [ ] Particle Core — Particle optimizations: Culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. Compatible with Sodium, improves performance over Sodium alone. | slug: particle-core
+027. [ ] BetterEnd — New Biomes, mysterious rituals and Mobs for your End | slug: betterend
+028. [ ] Immersive Aircraft — A bunch of rustic aircraft to travel, transport, and explore! | slug: immersive-aircraft
+029. [ ] ScalableLux — A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | slug: scalablelux
+030. [ ] Repurposed Structures - Fabric — Adds more variations of vanilla structures and features such as a Jungle Fortress! | slug: repurposed-structures-fabric
+031. [ ] BetterNether — More Biomes, More Mobs, More Tools for the fiery Dimension | slug: betternether
+032. [ ] Leaves Be Gone — Quick leaf decay from cutting down trees. Built for fast performance and mod compat! | slug: leaves-be-gone
+033. [ ] Trek — Bored of vanilla structure generation? This pack is for you! | slug: trek
+034. [ ] Friends&Foes (Fabric/Quilt) — Adds outvoted and forgotten mobs from the mob vote, expanding on their original concepts and adding new vanilla-like features. The mod includes: Copper Golem, Crab, Glare, Moobloom, Iceologer, Rascal, Tuff Golem, Wildfire, Illusioner, Zombie Horse | slug: friends-and-foes
+035. [ ] AzureLib — Java Minecraft mod using Bedrock models to create custom models and animations for items, blocks, entities | slug: azurelib
+036. [ ] Naturalist — Adds 47 animals *(and 66 variants)* to your world with immersive behaviors and drops. | slug: naturalist
+037. [ ] Advanced Netherite — A vanilla and add-on friendly, open-source mod that adds in more tiers of Netherite! | slug: advanced-netherite
+038. [ ] Carpet — Take full control over your vanilla game | slug: carpet
+039. [ ] Blur+ — Spices up the boring vanilla blur effect â featuring animations, colors and lots of customizability! | slug: blur-plus
+040. [ ] Macaw's Fences and Walls — Adds new vanilla styled fences, walls and gates! | slug: macaws-fences-and-walls
+041. [ ] Geophilic — A subtle-ish overhaul of vanilla Overworld biomes! Reworked! | slug: geophilic
+042. [ ] MES - Moog's End Structures — Lots of Vanilla styled structrues to fill up the end dimension with life! | slug: mes-moogs-end-structures
+043. [ ] Neat —  Functional minimalistic Unit Frames for the modern Minecrafter  | slug: neat
+044. [ ] Client Tweaks — There, I fixed Minecraft for you. Various optional tweaks to improve Minecraft Quality of Life.  | slug: client-tweaks
+045. [ ] Beautify: Refabricated — Adds lots of vanilla-styled ways to spice up your builds. | slug: beautify-refabricated
+046. [ ] Incendium Legacy — A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat. | slug: incendium
+047. [ ] Cull Leaves — Adds culling to leaf blocks, providing a huge performance boost over vanilla. | slug: cull-leaves
+048. [ ] Overflowing Bars — Expand health, armor and armor toughness bars beyond vanilla. Nice and compact without confusing colors. | slug: overflowing-bars
+049. [ ] Stoneworks — Vanilla stone types in plenty of variations for all your building needs. | slug: stoneworks
+050. [ ] Explorify — A simplistic, vanilla-friendly collection of new structures. | slug: explorify
+051. [ ] uku's Armor HUD — Minimalist vanilla-like widget to display your armor items and their durability. Forked by uku. | slug: ukus-armor-hud
+052. [ ] Immersive Melodies — Play custom melodies on various instruments and annoy your friends! | slug: immersive-melodies
+053. [ ] Structory: Towers — Adds immersive biome-themed towers to the world, as a standalone option or add-on to Structory | slug: structory-towers
+054. [ ] Noxesium — Improves play experience on multiplayer servers. | slug: noxesium
+055. [ ] Rechiseled — Rechiseled allows you to chisel blocks into various decorative blocks with connected textures! | slug: rechiseled
+056. [ ] MVS - Moog's Voyager Structures — adds 130+ vanilla style structures to your world to bring it alive, using vanilla blocks. Includes dungeons and enemies to fight! | slug: moogs-voyager-structures
+057. [ ] Animal Feeding Trough — Mobs self feed with feeding trough | slug: animal_feeding_trough
+058. [ ] Macaw's Doors — Adds vanilla doors with every wood color and new unique doors! Such as western, garage, shoji and more...! | slug: macaws-doors
+059. [ ] TslatEntityStatus — View entity health and other statuses. Make smacking things fun again! | slug: tslatentitystatus
+060. [ ] Immersive Armors — A lot of unique and vanilla-faithful armor sets. | slug: immersive-armors
+061. [ ] Macaw's Stairs — Adds new Vanilla styled Stairs, Handrails for Stairs and Balconies! | slug: macaws-stairs
+062. [ ] Fast Noise — Vanilla Worldgen optimization mod | slug: zfastnoise
+063. [ ] Better Archeology — Discover artifacts & fossils by encountering new structures that'll enhance your adventure and exploration! | slug: better-archeology
+064. [ ] Spawn Animations — Hostile mobs dig out of the ground or poof into existence when they spawn! | slug: spawn-animations
+065. [ ] Macaw's Furniture — Decorate your world with wardrobes, drawers, chairs, desks, couches, chaise, sinks, tables and more...! | slug: macaws-furniture
+066. [ ] Particle Effects — Visual Mod which adds unique textured particles for every effect in vanilla Minecraft! | slug: particle-effects
+067. [ ] Just Enough Resources (JER) — JEI integration that adds info on mobs, world gen, villagers and many more! | slug: just-enough-resources-jer
+068. [ ] Explosive Enhancement — Makes the explosion animation look cooler. | slug: explosive-enhancement
+069. [ ] Explorations — adds more vanilla style structures to the game | slug: explorations
+070. [ ] Nullscape — Transforms the boring Vanilla end into an alien dimension with the most surreal terrain imaginable. Topped with a couple of new biomes to add to the experience, whilst keeping the end desolate. | slug: nullscape
+071. [ ] Fadeless — Remove fade out animations in Minecraft (1.20+) | slug: fadeless
+072. [ ] Ecologics — Simple vanilla biome updates, with fun mobs, blocks, and more! | slug: ecologics
+073. [ ] Better Clouds — Beautiful clouds in touch with the vanilla style | slug: better-clouds
+074. [ ] Immersive Paintings — Drag and drop, pixelate and hang up beautiful art. On servers too. | slug: immersive-paintings
+075. [ ] Punchy! — A mod that adds various first person animations and visible hands with held items! | slug: punchy-fpa
+076. [ ] Ranged Weapon API — ð¹ Create fully functional bows and crossbows, with ease | slug: ranged-weapon-api
+077. [ ] Snow Under Trees (Fabric) — Adds snow under trees in snowy biomes, making the biomes more immersive. | slug: snow-under-trees-remastered
+078. [ ] Colorful Hearts — A client side mod that replaces multiple vanilla heart rows with a single row using colored hearts | slug: colorful-hearts
+079. [ ] Macaw's Holidays — Adds Christmas & Halloween decorations, Christmas Tree, Lights, Garland, Candy canes... | slug: macaws-holidays
+080. [ ] MNS - Moog's Nether Structures — loads of structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & more along the way! | slug: mns-moogs-nether-structures
+081. [ ] Gnetum — Distribute HUD updates over multiple frames to improve performance | slug: gnetum
+082. [ ] Better Than Mending —  A small quality of life tweak to the Mending enchantment  | slug: better-than-mending
+083. [ ] MCA Reborn — MCA Reborn is a Minecraft mod that greatly extends the functionality of villagers by adding interaction, marriage, children genetics, and more! | slug: minecraft-comes-alive-reborn
+084. [ ] Dismount Entity — ð Allows players to dismount/remove/exit entities/mobs from mounted entities without breaking them. | slug: dismount-entity
+085. [ ] Macaw's Lights and Lamps — Adds vanilla styled lamps, torches, street lamps, paper lamps, wall lamps, slabs... Make your world brighter! | slug: macaws-lights-and-lamps
+086. [ ] Joy of Painting — This mod lets you craft a blank canvas and a palette, with which you can paint your own pictures and hang them on a wall like the vanilla paintings. | slug: joy-of-painting
+087. [ ] Server Pinger Fixer — Improves pinging behaviour of the multiplayer server list | slug: serverpingerfixer
+088. [ ] ATi Structures - Vanilla Edition — A collection of custom structures and dungeons! | slug: ati-structures-vanilla-edition
+089. [ ] Status Effect Timer — Overlay a timer on the Vanilla status effect HUD icons | slug: statuseffecttimer
+090. [ ] Armor Statues — Unlock the full potential of armor stands! Works on vanilla servers, too. | slug: armor-statues
+091. [ ] Amecs — Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing. | slug: amecs
+092. [ ] MSS - Moog's Soaring Structures — Lots of awesome vanilla style floating islands full of loot, mobs and dungeons for you to explore! | slug: mss-moogs-soaring-structures
+093. [ ] Chunks fade in — A simple mod that adds different animations for chunks! | slug: chunks-fade-in
+094. [ ] Fast Item Frames — Supercharged item frames! Less lag, better performance, and now they can change color and vanish! | slug: fast-item-frames
+095. [ ] Shield Fixes — Resolves issues with shield sounds and corrects the animation glitch where the player's shield doesn't display blocking properly. | slug: complete-shield-fixes
+096. [ ] Vanilla Refresh — Enhancing Minecraft's experience with a variety of 30+ QOL features, like player sitting and a day counter. | slug: vanilla-refresh
+097. [ ] Spyglass Improvements — Spyglass Improvements is a mod that add various functionality and improvements to the vanilla minecraft spyglass. | slug: spyglass-improvements
+098. [ ] Raise Sound Limit Simplified — A mod that improves sound engine performance and raises Minecraft sound sources limit in a simple way | slug: rsls
+099. [ ] Better Animations Collection — Changing the in-game models to allow for better animations and subtle effects. | slug: better-animations-collection
+100. [ ] Healing Campfire — ð¥ð©¹ Creates an area around the (soul) campfire where players and passive mobs receive regeneration. | slug: healing-campfire
